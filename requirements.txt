@@ -41,7 +41,7 @@ pandas==1.0.3
 pandas-gbq==0.13.1
 paramiko==2.7.1
 prettytable==0.7.2
-protobuf==3.11.3
+protobuf==3.18.3
 psycopg2-binary==2.8.5
 pyarrow==0.16.0
 pyasn1==0.4.8
